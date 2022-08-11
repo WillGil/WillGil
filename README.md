@@ -1,14 +1,12 @@
-A backend developer, interested in the full-stack development of digital applications in the blockchain space.
+Full stack developer, interested in creating software that makes a difference to the world.
 
 **About**
 
-- 📚BSc Computer Science
+- 👨🏻‍💻 Software Engineer at [IBM](https://www.ibm.com/uk-en)
 
-- 👨🏻‍💻Software Engineer at [IBM](https://www.ibm.com/uk-en)
+- 📚 BSc Computer Science
 
-- 🔮Blockchain Developer freelance
-
-- 🔨Working in Solidity/JS and building Dapps applications is my passion.
+- 🔮 Freelance blockchain developer
 
 **Languages and Tools:**
 
